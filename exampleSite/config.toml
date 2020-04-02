@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "http://grayscale-artest.netlify.com/"
 languageCode = "en-us"
 title = "Hugo Grayscale Theme"
 theme = "hugograyscale"
